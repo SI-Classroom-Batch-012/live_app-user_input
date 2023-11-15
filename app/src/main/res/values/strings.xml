@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Live App User Input</string>
+    <string name="greeting_unhoeflich">Moin %1$s!</string>
+    <string name="greeting_hoeflich">Hallo %1$s! Ich hoffe du hast einen guten Tag</string>
+</resources>
